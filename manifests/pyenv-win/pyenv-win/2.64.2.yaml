@@ -1,0 +1,20 @@
+Id: pyenv-win.pyenv-win
+Name: pyenv-win
+AppMoniker: pyenv-win
+Version: 2.64.2
+Publisher: pyenv-win
+Author: Kotari Kiran Kumar
+License: Copyright (C) 2019-2020 MIT License
+LicenseUrl: https://github.com/pyenv-win/pyenv-win/blob/master/LICENSE
+MinOSVersion: 10.0.0.0
+Homepage: https://pyenv-win.github.io/pyenv-win/
+Description: Pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
+Tags: "pyenv,pyenv-win,python,pyenv for windows,python version management tool"
+InstallerType: xxxxxx
+Installers:
+  - Arch: x64
+    Url: https://github.com/vim/vim-win32-installer/releases/download/v8.2.0754/gvim_8.2.0754_x64_signed.exe
+    Sha256: 6a0be55836dfa5bd32cc8f352cf1f88a73a85bba04141a1b822f2cefe294d411
+  - Arch: x86
+    Url: https://github.com/vim/vim-win32-installer/releases/download/v8.2.0754/gvim_8.2.0754_x64_signed.exe
+    Sha256: 6a0be55836dfa5bd32cc8f352cf1f88a73a85bba04141a1b822f2cefe294d411
